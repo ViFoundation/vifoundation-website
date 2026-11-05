@@ -40,7 +40,7 @@ The project count must match the number of cards on the page. Open the branch's 
 - **Orang Utan Coffee:** the Aug 2026 report headline says "603 Farmers", while the site says "350+". Ask what 603 counts before changing either. ViFOUNDATION is listed as funder of USD 15'000; Pascal has not confirmed this.
 - **Coffee Value Chain for Climate Action (Guatemala):** budget and funder still say "To confirm".
 - **Audited report:** the button opens an email request. Pascal does not want the "Verfügung" published online.
-- **Domain and hosting:** vifoundation.ch DNS is still with SELISE, which ends on 31 Mar 2027. The domain must move to an account the foundation controls before then.
+- **Domain and hosting:** SELISE is no longer involved in the website. Kurt moved the DNS records himself on 23 Aug 2026 (his email: "we control Route 53"), removed SELISE's access, and SELISE confirmed the work complete. The site is hosted on Kurt's personal Vercel account, and the DNS zone and registrar are controlled on his side, not by the foundation. Still to do: move hosting, DNS and registrar to accounts the foundation owns, with Pascal as a named admin.
 
 ## Who decides
 
