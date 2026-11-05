@@ -1,0 +1,5 @@
+# robots.txt for vifoundation.ch
+User-agent: *
+Allow: /
+
+Sitemap: https://vifoundation.ch/sitemap.xml
